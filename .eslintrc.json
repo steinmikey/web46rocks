@@ -9,6 +9,6 @@
         "ecmaVersion": 12
     },
     "rules": {
-        "semi": 1 // 2 is more serious for missing semicolons
+        "semi": 0 // 2 is more serious for missing semicolons
     }
 }
